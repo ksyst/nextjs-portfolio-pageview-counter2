@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "chronark.com",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://raw.githubusercontent.com/ksyst/nextjs-portfolio-pageview-counter2/refs/heads/main/New%20Project%20128%20%5BF4AE8FB%5D.png",
         width: 1920,
         height: 1080,
       },
